@@ -1,1 +1,1 @@
-# reinforcement-project
+# insta-trainer
